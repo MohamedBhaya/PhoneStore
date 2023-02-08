@@ -1,2 +1,2 @@
 # PhoneStore
-create a phone store 
+create a phone store with React 
